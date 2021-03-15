@@ -50,5 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.vs/
+*.bin/
+*.vs/
+*.obj/
 bin/
-dir_to_ignore/
+vs/
+obj/
